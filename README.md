@@ -4,3 +4,4 @@ Public mirror of grey reference renders for image generation (ChatGPT / Magnific
 Only pictures. No game code. Source of truth: the private repo emerald-world.
 
 - `house07/` grey orthographic renders + style sheet
+- `house08/` grey orthographic renders + style sheet (tavern)
