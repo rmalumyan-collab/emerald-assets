@@ -1,0 +1,18 @@
+DEV (7 m giant) - repaint 2 texture sheets for a rigged 3D character. Original fantasy game, medieval, low-poly.
+Rules for BOTH sheets: keep every shape, outline and position exactly where it is (same layout, same black background, same square 1:1, 1024x1024). Change only the painting inside the shapes. Flat neutral light, no cast shadows, no highlights, no text, no new objects. Seams must continue across neighbouring pieces.
+
+1) dev-body-texture.png (zones are named in dev-body-GUIDE.png - do not copy the yellow labels):
+- TUNIC front + back (middle column): coarse undyed sackcloth / rough wool tunic, faded earthy brown-grey, torn ragged hem with frayed threads and holes, crude patches stitched with thick cord, dirt and old stains; a wide cracked leather belt with an iron ring at the waist; front collar opening stays where it is.
+- SHOULDER / SLEEVE: a crude fur-and-leather shoulder wrap, matted dark fur, torn edges.
+- TROUSERS: loose patched wool trousers, dark brown, torn and frayed at the knees and bottom.
+- LOWER LEG skin: wrapped with dirty linen strips and rope (leg wraps), skin visible in the gaps.
+- FOREARM + HAND skin: giant's skin - rough, weathered, ruddy grey-olive, scars, thick veins; a worn leather bracer on the forearm; dirty nails.
+- FEET: crude hide foot-wraps tied with rope (no modern shoes, no laces).
+
+2) dev-head-texture.png:
+- Same face position (eyes, nose, mouth stay exactly where they are), but a brutish ogre-like face: heavy brow, broken nose, scars, same ruddy grey-olive skin as the hands.
+- Wild long dark matted hair, and a thick dark beard painted over the chin, jaw and neck.
+- Keep the small pieces at the bottom (mouth inside, eye) as they are.
+
+Mood reference: dev-grey-views.jpg (grey model, horns and club are separate 3D parts - do not paint them).
+Deliver: two 1024x1024 PNGs with the same file names, into collab/chatgpt/sources/dev-skin-20261125/ (create_blob, as with the Armenian house sheets).
